@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105989074042",
+    "firebase_url": "https://la-pompe-a-essence.firebaseio.com",
+    "project_id": "la-pompe-a-essence",
+    "storage_bucket": "la-pompe-a-essence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105989074042:android:be0b836a4c40ffeda7dfc3",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Pompeaessence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105989074042-tfqjch45imroc64fd8k07kceetjfili2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.Pompeaessence",
+            "certificate_hash": "9d3e54bb5c46f0c44de6f88b112e176326d3158d"
+          }
+        },
+        {
+          "client_id": "105989074042-4q9tb7h43khjkmbrjpdggimagcl78ov4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_YoywdI3iRk-ReFe9VLq5ZepsHMmtosQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105989074042-4q9tb7h43khjkmbrjpdggimagcl78ov4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
